@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=jaikaran109&label=Profile%20Views&color=38bdf8&style=flat-square"/>
 
-<h1>JAIKARAN</h1>
+<h1>JAI KARAN</h1>
 
 <p>
 Full Stack Developer • Problem Solver • ML Explorer
