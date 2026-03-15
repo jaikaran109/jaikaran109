@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=jaikaran109&label=Profile%20Views&color=38bdf8&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=jaikaran109&label=Profile%20Views&color=F706CF&style=flat-square"/>
 
-<h1>JAI KARAN</h1>
+<h1>JAIKARAN</h1>
 
 <p>
 Full Stack Developer • Problem Solver • ML Explorer
@@ -14,7 +14,7 @@ Full Stack Developer • Problem Solver • ML Explorer
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaikaran109&theme=github-dark&color=38bdf8&line=38bdf8&point=38bdf8&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaikaran109&theme=github-dark&color=F706CF&line=F706CF&point=F706CF&hide_border=true"/>
 
 ---
 
@@ -22,7 +22,7 @@ Full Stack Developer • Problem Solver • ML Explorer
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaikaran109&layout=compact&theme=github_dark&title_color=38bdf8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaikaran109&layout=compact&theme=radical"/>
 
 </p>
 
@@ -71,7 +71,7 @@ Full Stack Developer • Problem Solver • ML Explorer
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaikaran109&show_icons=true&theme=github_dark&title_color=38bdf8&icon_color=38bdf8"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jaikaran109&show_icons=true&theme=radical"/>
 
 </p>
 
@@ -81,7 +81,7 @@ Full Stack Developer • Problem Solver • ML Explorer
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=jaikaran109&theme=github-dark-blue"/>
+<img src="https://streak-stats.demolab.com?user=jaikaran109&theme=radical"/>
 
 </p>
 
