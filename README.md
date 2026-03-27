@@ -69,7 +69,7 @@ Full Stack Developer • Problem Solver • ML Explorer
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaikaran109&theme=radical" height="160"/>
 
-<img src="https://streak-stats.demolab.com?user=jaikaran109&theme=default&ring=F706CF&fire=F706CF&currStreakLabel=F706CF" height="160"/>
+<img src="https://streak-stats.demolab.com?user=jaikaran109&theme=radical&ring=F706CF&fire=F706CF&currStreakLabel=F706CF&sideLabels=F706CF&dates=F706CF" height="160"/>
 
 </p>
 
