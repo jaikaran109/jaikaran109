@@ -21,7 +21,7 @@ Full Stack Developer • Problem Solver • ML Explorer
 # 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaikaran109&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaikaran109&layout=compact&theme=github_dark&title_color=F706CF"/>
 </p>
 
 ---
@@ -67,9 +67,9 @@ Full Stack Developer • Problem Solver • ML Explorer
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaikaran109&show_icons=true&theme=radical" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jaikaran109&show_icons=true&theme=github_dark&title_color=F706CF&icon_color=F706CF" height="160"/>
 
-<img src="https://streak-stats.demolab.com?user=jaikaran109&theme=radical" height="160"/>
+<img src="https://streak-stats.demolab.com?user=jaikaran109&theme=github-dark&ring=F706CF&fire=F706CF&currStreakLabel=F706CF" height="160"/>
 
 </p>
 
