@@ -21,7 +21,9 @@ Full Stack Developer • Problem Solver • ML Explorer
 # 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaikaran109&layout=compact&theme=default&title_color=F706CF"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaikaran109&theme=radical" height="160"/>
+
 </p>
 
 ---
