@@ -21,7 +21,7 @@ Full Stack Developer • Problem Solver • ML Explorer
 # 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaikaran109&layout=compact&theme=github_dark&title_color=F706CF"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaikaran109&layout=compact&theme=default&title_color=F706CF"/>
 </p>
 
 ---
@@ -47,15 +47,15 @@ Full Stack Developer • Problem Solver • ML Explorer
 
 <p align="center">
 
-<a href="https://linkedin.com/in/jaikaran" target="blank">
+<a href="https://linkedin.com/in/jaikaran" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 
-<a href="https://instagram.com/jaikaran109" target="blank">
+<a href="https://instagram.com/jaikaran109" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
 </a>
 
-<a href="https://www.leetcode.com/jaikaran109" target="blank">
+<a href="https://www.leetcode.com/jaikaran109" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
 </a>
 
@@ -67,9 +67,9 @@ Full Stack Developer • Problem Solver • ML Explorer
 
 <p align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jaikaran109&show_icons=true&theme=github_dark&title_color=F706CF&icon_color=F706CF" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaikaran109&theme=radical" height="160"/>
 
-<img src="https://streak-stats.demolab.com?user=jaikaran109&theme=github-dark&ring=F706CF&fire=F706CF&currStreakLabel=F706CF" height="160"/>
+<img src="https://streak-stats.demolab.com?user=jaikaran109&theme=default&ring=F706CF&fire=F706CF&currStreakLabel=F706CF" height="160"/>
 
 </p>
 
