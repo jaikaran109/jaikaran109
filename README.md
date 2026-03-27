@@ -21,9 +21,7 @@ Full Stack Developer • Problem Solver • ML Explorer
 # 💻 Most Used Languages
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaikaran109&layout=compact&theme=radical"/>
-
 </p>
 
 ---
@@ -31,9 +29,7 @@ Full Stack Developer • Problem Solver • ML Explorer
 # 🛠 Languages & Tools
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=c,java,javascript,python,react,nodejs"/>
-
 </p>
 
 ---
@@ -51,7 +47,7 @@ Full Stack Developer • Problem Solver • ML Explorer
 
 <p align="center">
 
-<a href="https://linkedin.com/in/jai karan" target="blank">
+<a href="https://linkedin.com/in/jaikaran" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 
@@ -67,21 +63,13 @@ Full Stack Developer • Problem Solver • ML Explorer
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats & 🔥 Streak
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaikaran109&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jaikaran109&show_icons=true&theme=radical" height="160"/>
 
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=jaikaran109&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=jaikaran109&theme=radical" height="160"/>
 
 </p>
 
