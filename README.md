@@ -18,6 +18,69 @@ Full Stack Developer • Problem Solver • ML Explorer
 ---
 </div>
 
+# 💻 Most Used Languages 
+
+<p align="center"> 
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaikaran109&theme=radical" height="160"/> 
+
+</p> 
+
+---
+
+# 🛠 Languages & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,java,javascript,python,react,nodejs"/>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+- 🌐 Passionate about **Web Development & Data Science**
+- 📘 Currently learning **Data Structures & Algorithms**
+- 🤖 Exploring **Machine Learning**
+- 🎯 Working towards becoming a **Software Engineer**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/jaikaran" target="_blank"> 
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+
+<a href="https://instagram.com/jaikaran109" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+
+<a href="https://www.leetcode.com/jaikaran109" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats & 🔥 Streak
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaikaran109&theme=radical" height="160"/>
+
+
+
+<img src="https://streak-stats.demolab.com?user=jaikaran109&theme=radical&ring=F706CF&fire=F706CF&currStreakLabel=F706CF&sideLabels=F706CF&dates=F706CF" height="160"/>
+
+</p>
+
+---
+
+<p align="center">
+
 ⭐ Building • Learning • Growing
 
 </p>
