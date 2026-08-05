@@ -13,7 +13,7 @@ Full Stack Developer • Problem Solver • ML Explorer
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaikaran109&theme=github-dark&color=F706CF&line=F706CF&point=F706CF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaikaran109&theme=github-dark&color=F706CF&line=F706CF&point=F706CF&hide_border=true "/> 
 
 ---
 </div>
@@ -81,3 +81,4 @@ Full Stack Developer • Problem Solver • ML Explorer
 ⭐ Building • Learning • Growing
 
 </p>
+
