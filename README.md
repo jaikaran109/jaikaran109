@@ -1,4 +1,4 @@
-<div align="center">  
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=jaikaran109&label=Profile%20Views&color=F706CF&style=flat-square"/>
 
@@ -8,27 +8,27 @@
 Full Stack Developer • Problem Solver • ML Explorer
 </p>
 
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaikaran109&theme=github-dark&color=F706CF&line=F706CF&point=F706CF&hide_border=true "/> 
-
----
 </div>
 
-# 💻 Most Used Languages 
+---
 
-<p align="center"> 
+## 📈 Contribution Graph
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaikaran109&theme=radical" height="160"/> 
-
-</p> 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaikaran109&theme=github-dark&color=F706CF&line=F706CF&point=F706CF&hide_border=true"/>
+</p>
 
 ---
 
-# 🛠 Languages & Tools
+## 💻 Most Used Languages
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaikaran109&theme=radical" height="160"/>
+</p>
+
+---
+
+## 🛠 Languages & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,java,javascript,python,react,nodejs"/>
@@ -36,7 +36,7 @@ Full Stack Developer • Problem Solver • ML Explorer
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🌐 Passionate about **Web Development & Data Science**
 - 📘 Currently learning **Data Structures & Algorithms**
@@ -45,40 +45,28 @@ Full Stack Developer • Problem Solver • ML Explorer
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://linkedin.com/in/jaikaran109" target="_blank"> 
+<a href="https://linkedin.com/in/jaikaran109" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
-
 <a href="https://instagram.com/jaikaran109" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
 </a>
-
-
 </p>
 
 ---
 
-# 📊 GitHub Stats & 🔥 Streak
+## 📊 GitHub Stats & 🔥 Streak
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaikaran109&theme=radical" height="160"/>
-
-
-
 <img src="https://streak-stats.demolab.com?user=jaikaran109&theme=radical&ring=F706CF&fire=F706CF&currStreakLabel=F706CF&sideLabels=F706CF&dates=F706CF" height="160"/>
-
 </p>
 
 ---
 
 <p align="center">
-
 ⭐ Building • Learning • Growing
-
 </p>
-
