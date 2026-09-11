@@ -33,7 +33,9 @@ Full Stack Developer • Problem Solver • ML Explorer
 ## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,javascript,python,html,css,tailwind,react,nodejs,express,mongodb,mysql,git,github,postman,vscode,idea,eclipse" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,mysql,git,github,postman" />
 </p>
 
 ---
