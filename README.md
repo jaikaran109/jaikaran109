@@ -15,7 +15,7 @@ Full Stack Developer • Problem Solver • ML Explorer
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=jaikaran109&theme=github-dark&hide_border=true&color=F706CF&line=F706CF&point=F706CF" width="100%"/>
+  <img src="./github-contribution-grid-graph.svg" width="100%"/>
 </p>
 
 
