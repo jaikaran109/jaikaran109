@@ -1,0 +1,22 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Graph
+        uses: Ashutosh00710/github-readme-activity-graph@v2.0.9
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: jaikaran109
+          theme: github-dark
+          hide_border: true
+          color: F706CF
+          line: F706CF
+          point: F706CF
+          output: github-contribution-grid-graph.svg
