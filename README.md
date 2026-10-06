@@ -11,9 +11,8 @@ Full Stack Developer • Problem Solver • ML Explorer
 </div>
 
 ---
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaikaran109&theme=github_dark" alt="Profile Details Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaikaran109&theme=github-dark&color=ff2a8d&line=ff2a8d&point=ffffff&background=161b22&hide_border=true" alt="Activity Graph" />
 </p>
  
 
