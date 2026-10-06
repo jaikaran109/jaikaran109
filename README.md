@@ -16,7 +16,7 @@ Full Stack Developer • Problem Solver • ML Explorer
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/graphs/commits-per-month?username=jaikaran109&theme=github_dark&chart_color=ff2a8d" alt="Commits Per Month Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaikaran109&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 </p>
  
 
