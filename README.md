@@ -15,9 +15,8 @@ Full Stack Developer • Problem Solver • ML Explorer
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaikaran109&theme=dark&hide_border=true&background=161b22" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/graphs/commits-per-month?username=jaikaran109&theme=default" alt="GitHub Contribution Graph" />
 </p>
-
  
 
 
