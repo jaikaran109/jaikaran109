@@ -15,7 +15,11 @@ Full Stack Developer • Problem Solver • ML Explorer
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaikaran109&theme=radical&color=F706CF&line=F706CF&point=F706CF&hide_border=true" width="100%"/>
+  <img
+    src="https://raw.githubusercontent.com/jaikaran109/jaikaran109/output/activity-graph.svg"
+    width="100%"
+    alt="Jai Karan's GitHub Contribution Graph"
+  />
 </p>
 
 
